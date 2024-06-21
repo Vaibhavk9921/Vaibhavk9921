@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kadam</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavk9921" alt="vaibhavk9921" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot, Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vaibhavk9921/Projects](https://github.com/Vaibhavk9921/Projects)
